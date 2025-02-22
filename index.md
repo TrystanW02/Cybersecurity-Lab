@@ -19,7 +19,7 @@
 * Ubuntu Desktop _22.04.5_
 * SecurityOnion _2.4.110_
 
-[Find all of these in the downloads folder! 📁](downloads/)
+[Find all of these in the downloads folder! 📁](https://github.com/TrystanW02/portfolio-cybersecuritylab/tree/main/downloads)
 ---
 
 # **Certifications**
