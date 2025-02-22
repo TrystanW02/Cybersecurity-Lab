@@ -6,9 +6,9 @@
 
 ---
 
-# **Formal Education**
+# **Downloads**
 
-B.S. Information Science & Technology - University of Oklahoma
+* VirtualBox _7.1.6_
 
 ---
 
@@ -53,12 +53,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
