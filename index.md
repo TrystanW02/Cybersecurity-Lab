@@ -1,4 +1,4 @@
-# Computer Specs :computer:
+# Computer Specs 💻
 
 *   _CPU_: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
 *   _RAM_: 16.0 GB (15.9 GB usable)
@@ -19,7 +19,7 @@
 * Ubuntu Desktop _22.04.5_
 * SecurityOnion _2.4.110_
 
-[Find all of these in the downloads folder! :file_folder:](downloads/)
+[Find all of these in the downloads folder! 📁](downloads/)
 ---
 
 # **Certifications**
