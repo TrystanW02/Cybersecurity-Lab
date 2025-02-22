@@ -20,30 +20,14 @@
 * SecurityOnion _2.4.110_
 
 [Find all of these in the downloads folder! 📁](https://github.com/TrystanW02/portfolio-cybersecuritylab/tree/main/downloads)
----
-
-# **Certifications**
-
-Google Cybersecurity Certification - Coursera\
-Security+ Certification (In Progress) - CompTIA
 
 ---
 
-# **Projects**
+# Provision A New NAT Network In VirtualBox
 
-## *Cybersecurity Lab*
-
-## *CTF Challenges*
-
-## *Networking*
-
-## *SIEM building*
-
-## *Honeypot*
-
-## *Malware Analysis*
-
-## *Scripting*
+1.  File >> Tools >> Network Manager
+2.  Click “NAT Networks”, then click “Create”
+3.  Name  “project-x-network”
 
 ---
 
@@ -64,12 +48,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
 | head1        | head two          | three |
@@ -78,14 +56,6 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 
 ### Small image
 
