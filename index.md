@@ -1,4 +1,4 @@
-# **Computer Specs**
+# Computer Specs
 
 *   _CPU_: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
 *   _RAM_: 16.0 GB (15.9 GB usable)
@@ -6,9 +6,18 @@
 
 ---
 
-# **Downloads**
+# Downloads
 
+## *Hypervisor*
 * VirtualBox _7.1.6_
+
+## *ISO Images*
+* Kali Linux 2024
+* Windows Server 2025
+* Windows 11 Enterprise
+* Ubuntu Live Server _22.04.5_
+* Ubuntu Desktop _22.04.5_
+* SecurityOnion _2.4.110_
 
 ---
 
