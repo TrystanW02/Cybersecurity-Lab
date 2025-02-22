@@ -19,7 +19,7 @@
 * Ubuntu Desktop _22.04.5_
 * SecurityOnion _2.4.110_
 
-[Check out the downloads folder for what I used and where to get current versions!](downloads/downloads.md)
+[Find all of these in the downloads folder!](downloads/)
 ---
 
 # **Certifications**
