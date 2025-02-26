@@ -1,7 +1,7 @@
 # Table of Contents
 * [Project Overview](#project-overview-briefcase)
   - [Computer Specs](#computer-specs-computer)
-  - [Downloads](#downloads-down-arrow)
+  - [Downloads](#downloads-arrow_down)
     - [Hypervisor](#hypervisor)
     - [ISO Images](#iso-images)
   - [NAT Network](#nat-network)
