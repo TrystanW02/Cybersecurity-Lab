@@ -9,7 +9,8 @@
   - [Hosts](#hosts-busts_in_silhouette)
   - [Accounts & Passwords](#accounts--passwords-page_with_curl)
   - [Virtual Box VMs](#virtualbox-vms-robot)
-  - 
+  - [Tools](#tools-toolbox)
+* [Provisioning Technologies](#provisioning-technologies-electric_plug)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
