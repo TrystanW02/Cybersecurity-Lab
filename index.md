@@ -37,4 +37,8 @@
 
 2. Enter a name for the virtual machine. Keep the folder the same. Select **"Type"** (*this changes throughout the project based on the ISO image used*). Select **"Version"** (*this changes throughout the project based on the ISO image used*).
 
-![Virtua Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Virtual_Machine_Creation.png?raw=true)
+![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Virtual_Machine_Creation.png?raw=true)
+
+3. Add hardware specifications. 4 GBs of RAM (4096 mb) AND 2 CPU processors for each machine, unless explicitly expressed.
+
+![Virtual Machine Creation]
