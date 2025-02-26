@@ -1,3 +1,9 @@
+# Project Overview
+
+
+
+---
+
 # Computer Specs 💻
 
 *   _CPU_: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
@@ -23,13 +29,15 @@
 
 ---
 
-# Provision A New NAT Network In VirtualBox
+# Provisioning Technologies
 
-1.  Navigate to the **"File"** tab, select **"Tools"** then click **"Network Manager"**
+## Provision A New NAT Network In VirtualBox
+
+### 1.  Navigate to the *"File"* tab, select *"Tools"* then click *"Network Manager"*
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
-2.  Click **“NAT Networks”**, then click **“Create”**
+### 2.  Click *“NAT Networks”*, then click *“Create”*
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
 
@@ -37,7 +45,7 @@
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Naming_Network.png?raw=true)
 
-# Provision A Virtual Machine
+## Provision A Virtual Machine
 
 1. Navigate to the *"Machine"* tab, select **New**
 
