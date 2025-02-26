@@ -130,4 +130,4 @@
 
 ### *7. Navigate to the ISO image location and select the appropriate ISO image*
 
-![Virtual Machine Configuration]
+![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/ISO%20Image%20Selection.png?raw=true)
