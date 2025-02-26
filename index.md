@@ -30,7 +30,10 @@
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
 3.  Click “NAT Networks”, then click “Create”
-4.  Name  “lab-network”
+
+![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
+
+5.  Name  “lab-network”
 
 # Provision A Virtual Machine
 
