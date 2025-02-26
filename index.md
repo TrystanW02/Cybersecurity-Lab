@@ -1,6 +1,12 @@
 # Table of Contents
 * [Project Overview](#project-overview)
   - [Computer Specs](#computer-specs)
+  - [Downloads](#downloads)
+    - [Hypervisor](#hypervisor)
+    - [ISO Images](#iso-images)
+  - [NAT Network](#nat-network)
+  - [Hosts](#hosts)
+  - [Accounts & Passwords](#accounts-&-passwords)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
@@ -32,7 +38,7 @@
   - **Usable Range:** 10.0.0.1 - 10.0.0.254
   - **DHCP Dynamic Scope:** 10.0.0.100 - 10.0.0.200 
 
-## Host :busts_in_silhouette:
+## Hosts :busts_in_silhouette:
 
 | **Hostname [lab-...]** | **IP Address**          | **Function**                       |
 |------------------------|-------------------------|------------------------------------|
