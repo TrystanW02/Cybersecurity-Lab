@@ -1,4 +1,5 @@
 # Table of Contents
+
 * [Project Overview](#project-overview-briefcase)
   - [Computer Specs](#computer-specs-computer)
   - [Downloads](#downloads-arrow_down)
@@ -7,6 +8,8 @@
   - [NAT Network](#nat-network-signal_strength)
   - [Hosts](#hosts-busts_in_silhouette)
   - [Accounts & Passwords](#accounts--passwords-page_with_curl)
+  - [Virtual Box VMs](#virtualbox-vms-robot)
+  - 
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
