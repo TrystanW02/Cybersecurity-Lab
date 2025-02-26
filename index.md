@@ -45,7 +45,7 @@
 | **Account**             | **Password**            | **Host**                           |
 |-------------------------|-------------------------|------------------------------------|
 | Administrator           | @boomersooner25!        | ...-dc                             |
-| johnd@corp.lab-dc.com   | @password123!           | ...-win-client                     |
+| `johnd@corp.lab-dc.com`   | @password123!           | ...-win-client                     |
 | janed@linux-client      | @password123!           | ...-linux-client                   |
 | lab-sec-work            | @password123!           | ...-sec-work                       |
 | sec-work@xsec-box       | @password123!           | ...-sec-box                        |
