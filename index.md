@@ -29,4 +29,6 @@
 2.  Click “NAT Networks”, then click “Create”
 3.  Name  “project-x-network”
 
----
+# Provision A Virtual Machine
+
+1. Navigate to the _"Machine"_ tab on the top navigation bar
