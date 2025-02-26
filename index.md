@@ -47,3 +47,7 @@
 4. Add hard disk specifications. Minimum 50 GB of space.
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hard_Disk_Specs.png?raw=true)
+
+5. Right click the new machine, click **"Settings"**
+
+![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Settings.png?raw=true)
