@@ -1,6 +1,6 @@
 # Table of Contents
-[1. Project Overview](#project-overview)
-
+1. [Project Overview](#project-overview)
+  a. [Computer Specs](#computer-specs)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
