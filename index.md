@@ -1,5 +1,5 @@
 # Table of Contents
-* [Project Overview](#project-overview-breifcase)
+* [Project Overview](#project-overview-briefcase)
   - [Computer Specs](#computer-specs)
   - [Downloads](#downloads)
     - [Hypervisor](#hypervisor)
