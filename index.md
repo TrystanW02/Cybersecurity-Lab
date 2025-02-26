@@ -1,3 +1,6 @@
+# Table of Contents
+[1. Project Overview](#project-overview)
+
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
@@ -137,3 +140,9 @@
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Network%20Settings%20LabWinClient.png?raw=true)
 
 ### *9. Select the virtual machine, then select **"Start"**.*
+
+---
+
+# Deploying each machine :cd:
+
+> This section is meant to walkthrough setting up each of the machines with the proper configurations and applications that are needed for this project.
