@@ -6,7 +6,7 @@
     - [ISO Images](#iso-images)
   - [NAT Network](#nat-network-signal_strength)
   - [Hosts](#hosts-busts_in_silhouette)
-  - [Accounts & Passwords](#accounts-&-passwords)
+  - [Accounts & Passwords](#accounts--passwords-page_with_curl)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
