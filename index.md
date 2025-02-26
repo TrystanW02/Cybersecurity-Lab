@@ -11,11 +11,11 @@
   - [Accounts & Passwords :page_with_curl:](#accounts--passwords-page_with_curl)
   - [VirtualBox VMs :robot:](#virtualbox-vms-robot)
   - [Tools :toolbox:](#tools-toolbox)
-  
+
 * [Provisioning Technologies :electric_plug:](#provisioning-technologies-electric_plug)
   - [Provision A New NAT Network In VirtualBox](#provision-a-new-nat-network-in-virtualbox)
   - [Provision A Virtual Machine](#provision-a-virtual-machine)
-  
+
 * [Deploying Each Machine :cd:](#deploying-each-machine-cd) 
 
 ---
