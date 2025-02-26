@@ -1,5 +1,5 @@
 # Project Overview
-> This whole project is based on Grant Colins Cybersecurity Homelab course!/
+> This whole project is based on Grant Colins Cybersecurity Homelab course!\
 > [This can be found here](https://projectsecurity.teachable.com/)
 
 ---
