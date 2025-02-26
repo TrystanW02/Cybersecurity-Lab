@@ -1,33 +1,18 @@
 # Project Overview
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
-## NAT Network
-* **Name:** lab-network
-* **IP Address Range:** 10.0.0.0/24
-  - **Usable Range:** 10.0.0.1 - 10.0.0.254
-  - **DHCP Dynamic Scope:** 10.0.0.100 - 10.0.0.200 
-
-## Host
-
-| **Hostname [lab-...]** | **IP Address** | **Function** |
-|------------------------|----------------|--------------|
-| -dc (corp.lab-dc.com)  | 10.0.0.5       | Domain Controller (DNS, DHCP, SSO) |
----
-
-# Computer Specs 💻
+## Computer Specs 💻
 
 *   _CPU_: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
 *   _RAM_: 16.0 GB (15.9 GB usable)
 *   _GPU_: NVIDIA GeForce GTX 1660 Ti
 
----
+## Downloads
 
-# Downloads
-
-## *Hypervisor*
+### *Hypervisor*
 * VirtualBox _7.1.6_
 
-## *ISO Images*
+### *ISO Images*
 * Kali Linux 2024
 * Windows Server 2025
 * Windows 11 Enterprise
@@ -37,6 +22,37 @@
 
 [Find all of these in the downloads folder! 📁](https://github.com/TrystanW02/portfolio-cybersecuritylab/tree/main/downloads)
 
+## NAT Network
+* **Name:** lab-network
+* **IP Address Range:** 10.0.0.0/24
+  - **Usable Range:** 10.0.0.1 - 10.0.0.254
+  - **DHCP Dynamic Scope:** 10.0.0.100 - 10.0.0.200 
+
+## Host
+
+| **Hostname [lab-...]** | **IP Address**          | **Function**                       |
+|------------------------|-------------------------|------------------------------------|
+| dc (corp.lab-dc.com)   | 10.0.0.5                | Domain Controller (DNS, DHCP, SSO) |
+| email-svr              | 10.0.0.8                | SMTP Relay Server                  |
+| sec-box                | 10.0.0.10               | Dedicated Security Server          |
+| sec-work               | 10.0.0.103 or (dynamic) | Security Playground                |
+| win-client             | 10.0.0.100 or (dynamic) | Windows Workstation                |
+| linux-client           | 10.0.0.101 or (dynamic) | Linux Desktop Workstation          |
+| attacker               | dynamic                 | Attacker Environment               |
+
+## Accounts & Passwords
+
+| **Account**             | **Password**            | **Host**                           |
+|-------------------------|-------------------------|------------------------------------|
+| Administrator           | @boomersooner25!        | ...-dc                             |
+| johnd@corp.lab-dc.com   | @password123!           | ...-win-client                     |
+| janed@linux-client      | @password123!           | ...-linux-client                   |
+| lab-sec-work            | @password123!           | ...-sec-work                       |
+| sec-work@xsec-box       | @password123!           | ...-sec-box                        |
+| email-svr@lab-email-svr | @password123!           | ...-email-svr                      |
+| attacker@attacker       | attacker                | attacker                           |
+
+## VirtualBox VMs
 ---
 
 # Provisioning Technologies
