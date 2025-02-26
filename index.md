@@ -23,6 +23,7 @@
 [Find all of these in the downloads folder! 📁](https://github.com/TrystanW02/portfolio-cybersecuritylab/tree/main/downloads)
 
 ## NAT Network
+
 * **Name:** lab-network
 * **IP Address Range:** 10.0.0.0/24
   - **Usable Range:** 10.0.0.1 - 10.0.0.254
@@ -63,6 +64,23 @@
 | [lab-sec-box]      | Ubuntu 22.04 Desktop  | 2 CPU / 4096 MB |80 GBs             |
 | [lab-email-svr]    | Ubuntu Server 22.04   | 1 CPU / 2048 MB |25 GBs             |
 | [attacker]         | Kali Linux 2024       | 1 CPU / 2048 MB |55 GBs             |
+
+## Tools
+
+### *Enterprise Tools + Defense*
+
+* Microsoft Active Directory
+* Wazuh
+* Postfix
+
+### Offense
+
+* Evil-WinRM
+* Hydra
+* SecLists
+* NetExec
+* XFreeRDP
+
 ---
 
 # Provisioning Technologies
