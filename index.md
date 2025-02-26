@@ -32,3 +32,4 @@
 # Provision A Virtual Machine
 
 1. Navigate to the _"Machine"_ tab on the top navigation bar
+![alt text](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Screenshot%202025-02-25%20195232.png?raw=true)
