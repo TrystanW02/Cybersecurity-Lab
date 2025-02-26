@@ -40,5 +40,6 @@
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Virtual_Machine_Creation.png?raw=true)
 
 3. Add hardware specifications. 4 GBs of RAM (4096 mb) AND 2 CPU processors for each machine, unless explicitly expressed.
+   - *For Windows images, click the box to "Enable EFI"*
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hardware_Specs.png?raw=true)
