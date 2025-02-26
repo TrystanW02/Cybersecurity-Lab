@@ -33,7 +33,9 @@
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
 
-5.  Name  “lab-network”
+5.  Name the network and choose an IPv4 prefix. Refer to the **"Project Overview"** section for IPv4 prefixes.
+
+![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Naming_Network.png?raw=true)
 
 # Provision A Virtual Machine
 
