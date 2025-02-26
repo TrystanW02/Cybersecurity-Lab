@@ -4,7 +4,7 @@
   - [Downloads](#downloads-arrow_down)
     - [Hypervisor](#hypervisor)
     - [ISO Images](#iso-images)
-  - [NAT Network](#nat-network)
+  - [NAT Network](#nat-network-signal_strength)
   - [Hosts](#hosts)
   - [Accounts & Passwords](#accounts-&-passwords)
 # Project Overview :briefcase:
