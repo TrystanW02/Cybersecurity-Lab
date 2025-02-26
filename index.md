@@ -29,7 +29,7 @@
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
-2.  Click “NAT Networks”, then click “Create”
+2.  Click **“NAT Networks”**, then click **“Create”**
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
 
