@@ -124,10 +124,16 @@
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Settings.png?raw=true)
 
-### *6. Select the *"Storage"* tab, click the *"Empty"* storage device, then select *"Choose a disk file".**
+### *6. Select the **"Storage"** tab, click the **"Empty"** storage device, then select **"Choose a disk file".***
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Storage_Settings.png?raw=true)
 
 ### *7. Navigate to the ISO image location and select the appropriate ISO image*
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/ISO%20Image%20Selection.png?raw=true)
+
+### *8. Navigate to the **"Settings"** of the virtual machine, select **"Network"**. Select **"NAT Network"** in the Attached to option. Choose the network you created in the **"Name"** option.*
+
+![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Network%20Settings%20LabWinClient.png?raw=true)
+
+### *9. Select the virtual machine, then select **"Start"**.*
