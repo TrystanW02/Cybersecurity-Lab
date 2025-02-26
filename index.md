@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Project Overview :briefcase:](#project-overview-briefcase)
+  - [Network Diagram Map :world_map:](#network-diagram-map-world_map)
   - [Computer Specs](#computer-specs-computer)
   - [Downloads](#downloads-arrow_down)
     - [Hypervisor](#hypervisor)
