@@ -85,7 +85,7 @@
 
 # Provisioning Technologies :electric_plug:
 
->The purpose of this section is to demonstrate the process of provisioning virtual machines and configuring the NAT network that will serve >as the primary connection framework for all deployed virtual machines.
+>The purpose of this section is to demonstrate the process of provisioning virtual machines and configuring the NAT network that will serve as the primary connection framework for all deployed virtual machines.
 
 ## Provision A New NAT Network In VirtualBox
 
