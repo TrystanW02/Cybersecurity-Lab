@@ -1,6 +1,14 @@
 # Project Overview
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
+## NAT Network
+* **Name:** lab-network
+* **IP Address Range:** 10.0.0.0/24
+  - **Usable Range:** 10.0.0.1 - 10.0.0.254
+  - **DHCP Dynamic Scope:** 10.0.0.100 - 10.0.0.200 
+
+## Host
+
 | **Hostname [lab-...]** | **IP Address** | **Function** |
 |------------------------|----------------|--------------|
 | -dc (corp.lab-dc.com)  | 10.0.0.5       | Domain Controller (DNS, DHCP, SSO) |
