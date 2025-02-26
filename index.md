@@ -156,6 +156,6 @@
 
 ---
 
-# Deploying each machine :cd:
+# Deploying Each Machine :cd:
 
 > This section is meant to walkthrough setting up each of the machines with the proper configurations and applications that are needed for this project.
