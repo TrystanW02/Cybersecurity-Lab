@@ -69,17 +69,17 @@
 
 ### *Enterprise Tools + Defense*
 
-* Microsoft Active Directory
-* Wazuh
-* Postfix
+* **Microsoft Active Directory:** A centralized directory service that manages users, devices, and permissions in a Windows domain environment
+* **Wazuh:** An open-source security platform for threat detection, incident response, and compliance monitoring
+* **Postfix:** A mail transfer agent (MTA) used to route and deliver email securely in Unix-based systems
 
 ### Offense
 
-* Evil-WinRM
-* Hydra
-* SecLists
-* NetExec
-* XFreeRDP
+* **Evil-WinRM:** A post-exploitation tool that allows remote command execution on Windows systems using WinRM
+* **Hydra:** A fast and flexible password-cracking tool that supports numerous authentication protocols
+* **SecLists:** A comprehensive collection of security-related wordlists used for reconnaissance, brute-force attacks, and pentesting
+* **NetExec:** A remote command execution tool for managing Windows machines across a network
+* **XFreeRDP:** An open-source implementation of the Remote Desktop Protocol (RDP) for accessing Windows systems remotely
 
 ---
 
