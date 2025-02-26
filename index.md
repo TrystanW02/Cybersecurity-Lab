@@ -25,7 +25,7 @@
 
 # Provision A New NAT Network In VirtualBox
 
-1.  File >> Tools >> Network Manager
+1.  Navigate to the **"File"** tab, select **"Tools"** then click **"Network Manager"**
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
