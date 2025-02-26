@@ -26,8 +26,11 @@
 # Provision A New NAT Network In VirtualBox
 
 1.  File >> Tools >> Network Manager
-2.  Click “NAT Networks”, then click “Create”
-3.  Name  “lab-network”
+
+![Network Manager](
+
+3.  Click “NAT Networks”, then click “Create”
+4.  Name  “lab-network”
 
 # Provision A Virtual Machine
 
