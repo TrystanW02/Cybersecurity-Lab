@@ -13,7 +13,7 @@
 * [Provisioning Technologies](#provisioning-technologies-electric_plug)
   - [Provision A New NAT Network In VirtualBox](#provision-a-new-nat-network-in-virtualbox)
   - [Provision A Virtual Machine](#provision-a-virtual-machine)
-* [Deploying Each Machine](#provision-each-machine-cd) 
+* [Deploying Each Machine](#deploying-each-machine-cd) 
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
