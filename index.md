@@ -1,11 +1,11 @@
 # Table of Contents
-* [Project Overview](#project-overview-:briefcase:)
+* [Project Overview](#project-overview)
   - [Computer Specs](#computer-specs)
   - [Downloads](#downloads)
     - [Hypervisor](#hypervisor)
     - [ISO Images](#iso-images)
   - [NAT Network](#nat-network)
-  - [Hosts](#hosts-:busts_in_silhouette:)
+  - [Hosts](#hosts)
   - [Accounts & Passwords](#accounts-&-passwords)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
