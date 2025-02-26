@@ -42,17 +42,27 @@
 
 ## Accounts & Passwords
 
-| **Account**             | **Password**            | **Host**                           |
-|-------------------------|-------------------------|------------------------------------|
-| Administrator           | @boomersooner25!        | ...-dc                             |
-| `johnd@corp.lab-dc.com`   | @password123!           | ...-win-client                     |
-| janed@linux-client      | @password123!           | ...-linux-client                   |
-| lab-sec-work            | @password123!           | ...-sec-work                       |
-| sec-work@xsec-box       | @password123!           | ...-sec-box                        |
-| email-svr@lab-email-svr | @password123!           | ...-email-svr                      |
-| attacker@attacker       | attacker                | attacker                           |
+| **Account**             | **Password**     | **Host**         |
+|-------------------------|------------------|------------------|
+| Administrator           | @boomersooner25! | ...-dc           |
+| johnd@corp.lab-dc.com   | @password123!    | ...-win-client   |
+| janed@linux-client      | @password123!    | ...-linux-client |
+| lab-sec-work            | @password123!    | ...-sec-work     |
+| sec-work@sec-box        | @password123!    | ...-sec-box      |
+| email-svr@lab-email-svr | @password123!    | ...-email-svr    |
+| attacker@attacker       | attacker         | attacker         |
 
 ## VirtualBox VMs
+
+| **VM Name**        | **Operating System**  | **Specs**       | Storage (Minimum) |
+|--------------------|-----------------------|-----------------|-------------------|
+| [lab-dc]           | Windows Server 2025   | 2 CPU / 4096 MB |50 GBs             |
+| [lab-win-client]   | Windows 11 Enterprise | 2 CPU / 4096 MB |80 GBs             |
+| [lab-linux-client] | Ubuntu 22.04 Desktop  | 1 CPU / 2048 MB |80 GBs             |
+| [lab-sec-work]     | Security Onion        | 1 CPU / 2048 MB |55 GBs             |
+| [lab-sec-box]      | Ubuntu 22.04 Desktop  | 2 CPU / 4096 MB |80 GBs             |
+| [lab-email-svr]    | Ubuntu Server 22.04   | 1 CPU / 2048 MB |25 GBs             |
+| [attacker]         | Kali Linux 2024       | 1 CPU / 2048 MB |55 GBs             |
 ---
 
 # Provisioning Technologies
