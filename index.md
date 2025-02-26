@@ -43,3 +43,7 @@
    - *For Windows images, click the box to "Enable EFI"*
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hardware_Specs.png?raw=true)
+
+4. Add hard disk specifications. Minimum 50 GB of space.
+
+![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hard_Disk_Specs.png?raw=true)
