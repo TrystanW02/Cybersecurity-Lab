@@ -2,19 +2,21 @@
 
 * [Project Overview :briefcase:](#project-overview-briefcase)
   - [Network Diagram Map :world_map:](#network-diagram-map-world_map)
-  - [Computer Specs](#computer-specs-computer)
-  - [Downloads](#downloads-arrow_down)
+  - [Computer Specs :computer:](#computer-specs-computer)
+  - [Downloads :arrow_down:](#downloads-arrow_down)
     - [Hypervisor](#hypervisor)
     - [ISO Images](#iso-images)
-  - [NAT Network](#nat-network-signal_strength)
-  - [Hosts](#hosts-busts_in_silhouette)
-  - [Accounts & Passwords](#accounts--passwords-page_with_curl)
-  - [Virtual Box VMs](#virtualbox-vms-robot)
-  - [Tools](#tools-toolbox)
-* [Provisioning Technologies](#provisioning-technologies-electric_plug)
+  - [NAT Network :signal_strength:](#nat-network-signal_strength)
+  - [Hosts :busts_in_silhouette:](#hosts-busts_in_silhouette)
+  - [Accounts & Passwords :page_with_curl:](#accounts--passwords-page_with_curl)
+  - [VirtualBox VMs :robot:](#virtualbox-vms-robot)
+  - [Tools :toolbox:](#tools-toolbox)
+  
+* [Provisioning Technologies :electric_plug:](#provisioning-technologies-electric_plug)
   - [Provision A New NAT Network In VirtualBox](#provision-a-new-nat-network-in-virtualbox)
   - [Provision A Virtual Machine](#provision-a-virtual-machine)
-* [Deploying Each Machine](#deploying-each-machine-cd) 
+  
+* [Deploying Each Machine :cd:](#deploying-each-machine-cd) 
 
 ---
 
