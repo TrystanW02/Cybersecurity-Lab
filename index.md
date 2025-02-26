@@ -36,3 +36,5 @@
 ![Virtual Box "Machine" Tab](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Screenshot%202025-02-25%20195232.png?raw=true)
 
 2. Enter a name for the virtual machine. Keep the folder the same. Select **"Type"** (*this changes throughout the project based on the ISO image used*). Select **"Version"** (*this changes throughout the project based on the ISO image used*).
+
+![Virtua Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Virtual_Machine_Creation.png?raw=true)
