@@ -55,3 +55,5 @@
 6. Select the **"Storage"** tab, click the **"Empty"** storage device, then select **"Choose a disk file".**
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Storage_Settings.png?raw=true)
+
+7. Navigate to the ISO image location and select the appropriate ISO image
