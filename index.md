@@ -29,11 +29,11 @@
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
-3.  Click “NAT Networks”, then click “Create”
+2.  Click “NAT Networks”, then click “Create”
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
 
-5.  Name the network and choose an IPv4 prefix. Refer to the **"Project Overview"** section for IPv4 prefixes.
+3.  Name the network and choose an IPv4 prefix. Refer to the **"Project Overview"** section for IPv4 prefixes.
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Naming_Network.png?raw=true)
 
