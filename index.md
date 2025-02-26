@@ -27,7 +27,7 @@
 
 1.  File >> Tools >> Network Manager
 2.  Click “NAT Networks”, then click “Create”
-3.  Name  “project-x-network”
+3.  Name  “lab-network”
 
 # Provision A Virtual Machine
 
