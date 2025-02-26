@@ -1,7 +1,9 @@
 # Project Overview
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
-
+| **Hostname [lab-...]** | **IP Address** | **Function** |
+|------------------------|----------------|--------------|
+| -dc (corp.lab-dc.com)  | 10.0.0.5       | Domain Controller (DNS, DHCP, SSO) |
 ---
 
 # Computer Specs 💻
