@@ -1,13 +1,13 @@
-# Project Overview
+# Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
-## Computer Specs 💻
+## Computer Specs :computer:
 
 *   _CPU_: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
 *   _RAM_: 16.0 GB (15.9 GB usable)
 *   _GPU_: NVIDIA GeForce GTX 1660 Ti
 
-## Downloads
+## Downloads :arrow_down:
 
 ### *Hypervisor*
 * VirtualBox _7.1.6_
@@ -22,14 +22,14 @@
 
 [Find all of these in the downloads folder! 📁](https://github.com/TrystanW02/portfolio-cybersecuritylab/tree/main/downloads)
 
-## NAT Network
+## NAT Network :signal_strength:
 
 * **Name:** lab-network
 * **IP Address Range:** 10.0.0.0/24
   - **Usable Range:** 10.0.0.1 - 10.0.0.254
   - **DHCP Dynamic Scope:** 10.0.0.100 - 10.0.0.200 
 
-## Host
+## Host :busts_in_silhouette:
 
 | **Hostname [lab-...]** | **IP Address**          | **Function**                       |
 |------------------------|-------------------------|------------------------------------|
@@ -41,7 +41,7 @@
 | linux-client           | 10.0.0.101 or (dynamic) | Linux Desktop Workstation          |
 | attacker               | dynamic                 | Attacker Environment               |
 
-## Accounts & Passwords
+## Accounts & Passwords :page_with_curl:
 
 | **Account**             | **Password**     | **Host**         |
 |-------------------------|------------------|------------------|
@@ -53,7 +53,7 @@
 | email-svr@lab-email-svr | @password123!    | ...-email-svr    |
 | attacker@attacker       | attacker         | attacker         |
 
-## VirtualBox VMs
+## VirtualBox VMs :robot:
 
 | **VM Name**        | **Operating System**  | **Specs**       | Storage (Minimum) |
 |--------------------|-----------------------|-----------------|-------------------|
@@ -65,7 +65,7 @@
 | [lab-email-svr]    | Ubuntu Server 22.04   | 1 CPU / 2048 MB |25 GBs             |
 | [attacker]         | Kali Linux 2024       | 1 CPU / 2048 MB |55 GBs             |
 
-## Tools
+## Tools :toolbox:
 
 ### *Enterprise Tools + Defense*
 
@@ -83,7 +83,7 @@
 
 ---
 
-# Provisioning Technologies
+# Provisioning Technologies :electric_plug:
 
 ## Provision A New NAT Network In VirtualBox
 
