@@ -11,6 +11,7 @@
   - [Virtual Box VMs](#virtualbox-vms-robot)
   - [Tools](#tools-toolbox)
 * [Provisioning Technologies](#provisioning-technologies-electric_plug)
+  - [Provision A New NAT Network In VirtualBox](#provision-a-new-nat-network-in-virtualbox)
 # Project Overview :briefcase:
 > This project was based on Grant Colin's Cybersecurity Homelab pproject that can be found [here](https://projectsecurity.teachable.com/)!
 
