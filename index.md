@@ -191,4 +191,5 @@
 
 #### *Assign Static IP address*
 
-##### *1. Navigate to Control Panel. Select "Network and Sharing Center".
+##### *1. Navigate to Control Panel. Select "Network and Sharing Center".*
+
