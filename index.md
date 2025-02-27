@@ -167,3 +167,9 @@
 # Deploying Each Machine :cd:
 
 > This section is meant to walkthrough setting up each of the machines with the proper configurations and applications that are needed for this project.
+
+## Windows Server 2025
+
+### *1. Next >> "Install Windows Server" >> Check the box >> Next*
+   
+### *2. Select "Windows Server 2025 Standard Evaluation (Desktop Experience)"*
