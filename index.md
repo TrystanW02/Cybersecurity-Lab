@@ -179,5 +179,6 @@
 
 ### *3. Accept Microsoft's EULA*
 
-### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"
+### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"*
 
+![Disk 0 Partition 3](
