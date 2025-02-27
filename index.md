@@ -176,3 +176,8 @@
 ### *2. Select "Windows Server 2025 Standard Evaluation (Desktop Experience)"*
 
 ![Select Image WS25](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Windows%20Server%202025%20Select%20Image.png?raw=true)
+
+### *3. Accept Microsoft's EULA*
+
+### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"
+
