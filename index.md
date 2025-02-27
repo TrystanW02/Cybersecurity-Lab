@@ -23,6 +23,8 @@
 
 ## Network Diagram Map :world_map:
 
+![Network Diagram Map](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Network%20Map.png?raw=true)
+
 ## Computer Specs :computer:
 
 *   **CPU**: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz   2.59 GHz
