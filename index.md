@@ -127,6 +127,8 @@
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Naming_Network.png?raw=true)
 
+---
+
 ## Provision A Virtual Machine
 
 ##### *1. Navigate to the *"Machine"* tab, select *New**
@@ -190,6 +192,8 @@
 
 ##### *7. Next, I will be showing how I finshed configuring the machine. A static IP address should be assigned, promoting thhe server to a domain controller, DHCP and DNS need to be set up and I will add a couple of user accounts to the server.*
 
+---
+
 #### *Assign Static IP address*
 
 ##### *1. Navigate to Control Panel. Select "Network and Sharing Center" >> Select "Change Adapter Settings"*
@@ -203,6 +207,8 @@
 ##### *3. Select "Internet Protocol Version 4 (TCP.IPv4)" >> "Properties" >> Set static IP address, select "OK" when finshed.*
 
 ![IPv4 Select](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/IPv4%20Select.png?raw=true)
+
+---
 
 #### *Promote Active Directory to a Domain Controller*
 
