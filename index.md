@@ -15,7 +15,8 @@
   - [Provision A New NAT Network In VirtualBox](#provision-a-new-nat-network-in-virtualbox)
   - [Provision A Virtual Machine](#provision-a-virtual-machine)
 * [Deploying Each Machine :cd:](#deploying-each-machine-cd) 
-
+  - [Windows Server 2025](#windows-server-2025)
+  - 
 ---
 
 # Project Overview :briefcase:
@@ -173,3 +174,5 @@
 ### *1. Next >> "Install Windows Server" >> Check the box >> Next*
    
 ### *2. Select "Windows Server 2025 Standard Evaluation (Desktop Experience)"*
+
+![Select Image WS25](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Windows%20Server%202025%20Select%20Image.png?raw=true)
