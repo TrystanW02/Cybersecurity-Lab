@@ -20,6 +20,7 @@
     - [Promote Active Directory to a Domain Controller](#promote-active-directory-to-a-domain-controller)
     - [Setup DNS For Internet Access](#setup-dns-for-internet-access)
     - [Setup DHCP](#setup-dhcp)
+    - [Add User Accounts in Active Directory](#add-user-accounts-in-active-directory)
 ---
 
 # Project Overview :briefcase:
@@ -287,13 +288,23 @@ If the setup was done correctly, the following output will be displayed:
 
 ![DHCP Manager](
 
-##### *2. Select servdr >> Right click "IPv4" >> Select "New Scope"
+##### *2. Select servdr >> Right click "IPv4" >> Select "New Scope"*
 
 ![DHCP New Scope](
 
-##### *3. A wizard window will appear now. Add a name for the scope. For this project, I chose "lab-scope". For the IP address range, I used the following:
+##### *3. A wizard window will appear now. Add a name for the scope. For this project, I chose "lab-scope". For the IP address range, I used the following:*
 ##### - *Start IP address:* 10.0.0.100
 ##### - *End IP address:* 10.0.0.200
 ##### - *Subnet mask:* 255.255.255.0
 
 ![IP Address Range](
+
+##### *4. Click "Next" through the windows until the "Router (Default Gateway)" >> Add the routher IP, for this it is 10.0.0.1*
+
+![Router IP](
+
+##### *5. Click "Next" throught the remaining windows >> "Finish"
+
+---
+
+#### Add User Accounts in Active Directory
