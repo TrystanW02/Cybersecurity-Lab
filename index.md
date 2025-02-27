@@ -292,8 +292,8 @@ If the setup was done correctly, the following output will be displayed:
 ![DHCP New Scope](
 
 ##### *3. A wizard window will appear now. Add a name for the scope. For this project, I chose "lab-scope". For the IP address range, I used the following:
-#####- *Start IP address:* 10.0.0.100
-#####- *End IP address:* 10.0.0.200
-#####- *Subnet mask:* 255.255.255.0
+##### - *Start IP address:* 10.0.0.100
+##### - *End IP address:* 10.0.0.200
+##### - *Subnet mask:* 255.255.255.0
 
 ![IP Address Range](
