@@ -185,4 +185,10 @@
 
 ### *5. Set a password for the default Administrator account. After this, a login screen will appear*
 
-### *6. 
+### *6. Login with the password you just created. After this, there will be a "Server Manager" window that appears.*
+
+### *7. Next, I will be showing how I finshed configuring the machine. A static IP address should be assigned, promoting thhe server to a domain controller, DHCP and DNS need to be set up and I will add a couple of user accounts to the server.*
+
+#### *Assign Static IP address*
+
+##### *1. Navigate to Control Panel. Select "Network and Sharing Center".
