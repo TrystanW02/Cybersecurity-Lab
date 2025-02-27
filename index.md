@@ -325,3 +325,4 @@ If the setup was done correctly, the following output will be displayed:
 
 ---
 
+## Windows 11 Enterprise
