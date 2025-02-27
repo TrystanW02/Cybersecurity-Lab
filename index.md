@@ -164,7 +164,7 @@
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Network%20Settings%20LabWinClient.png?raw=true)
 
-### *9. Select the virtual machine, then select **"Start"**.*
+##### *9. Select the virtual machine, then select **"Start"**.*
 
 ---
 
