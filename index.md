@@ -244,9 +244,11 @@
 ```Powershell
 Get-ADDomainController
 ```
-If done correctly, you should see the below output:
+##### If done correctly, you should see the below output:
 
 ![GET ADDomainController](
+
+---
 
 #### Setup DNS For Internet Access
 
@@ -275,3 +277,22 @@ If the setup was done correctly, the following output will be displayed:
 ![ping google.com](
 
 ![nslookup domain](
+
+---
+
+#### Setup DHCP
+
+##### *1. On the "Server Manager" window, navigate to "DHCP" on the left side navigation menu >> Select the server >> Right click >> "DHCP Manager"*
+
+![DHCP Manager](
+
+##### *2. Select servdr >> Right click "IPv4" >> Select "New Scope"
+
+![DHCP New Scope](
+
+##### *3. A wizard window will appear now. Add a name for the scope. For this project, I chose "lab-scope". For the IP address range, I used the following:
+- *Start IP address:* 10.0.0.100
+- *End IP address:* 10.0.0.200
+- *Subnet mask:* 255.255.255.0
+
+![IP Address Range](
