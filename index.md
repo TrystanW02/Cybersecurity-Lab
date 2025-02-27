@@ -197,22 +197,22 @@
 
 ##### *2. Right click "Ethernet" >> Select "Properties"*
 
-![Ethernet Properties](
+![Ethernet Properties](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Ethernet%20Properties.png?raw=true)
 
 ##### *3. Select "Internet Protocol Version 4 (TCP.IPv4)" >> "Properties" >> Set static IP address, select "OK" when finshed.*
 
-![IPv4 Select](
+![IPv4 Select](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/IPv4%20Select.png?raw=true)
 
 #### *Promote Active Directory to a Domain Controller*
 
 ##### *1. Back on "Server Manager", click "Add roles and features"*
 
-![Add roles and features](
+![Add roles and features](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Add%20roles%20and%20features.png?raw=true)
 
 ##### *2. Click "Next" for the next 3 boxes. On the "Select server roles" window, select 'Active Directory Domain Services', 'DHCP Server', 'DNS Server', 'File and Storage Services' and 'Web Server (IIS)'*
 
-![Select Server Role](
+![Select Server Role](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Select%20Server%20Role.png?raw=true)
 
 ##### *3. Click "Next" until confirmation tab, select "Install"*
 
-![Confirmation Install](
+![Confirmation Install](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Confirmation%20Install.png?raw=true)
