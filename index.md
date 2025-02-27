@@ -18,6 +18,7 @@
   - [Windows Server 2025](#windows-server-2025)
     - [Assign Static IP Address](#assign-static-ip-address)
     - [Promote Active Directory to a Domain Controller](#promote-active-directory-to-a-domain-controller)
+    - [Setup DNS For Internet Access](#setup-dns-for-internet-access)
 ---
 
 # Project Overview :briefcase:
@@ -237,3 +238,40 @@
 ##### *7. Leave "Create DNS delegation" box blank >> Click "Next" until confirmation screen. Click "Install"*
 
 ![Prereq Check](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Prereq%20Check.png?raw=true)
+
+##### *8. Now, you will be able to sign in as CORP/Administrator. To test and make sure the server is apart of the domain, open Powershell and run this command:
+
+```Powershell
+Get-ADDomainController
+```
+If done correctly, you should see the below output:
+
+![GET ADDomainController](
+
+#### Setup DNS For Internet Access
+
+##### *1. On the "Server Manager" window, navigate to "DNS" on the left side navigation menu >> Select the server >> Right-click >> "DNS Manager"*
+
+![DNS Manager](
+
+##### *2. Right-click the domain >> "Properties"
+
+![DNS Manager Properties](
+
+##### *3. Select "Forwarders" tab >> "Edit" >> Add "8.8.8.8" >> "OK"
+
+![Edit Forwarders](
+
+##### *4. To test and make sure there is internet connection, run the following commands in Powershell:
+
+```Powershell
+ping google.com
+nslookup corp.lab-dc.com
+```
+***NOTE: For the nslookup command, change the domain to whatever you have named it***
+
+If the setup was done correctly, the following output will be displayed:
+
+![ping google.com](
+
+![nslookup domain](
