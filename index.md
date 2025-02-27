@@ -114,50 +114,50 @@
 
 ## Provision A New NAT Network In VirtualBox
 
-### *1.  Navigate to the *"File"* tab, select *"Tools"* then click *"Network Manager"**
+##### *1.  Navigate to the *"File"* tab, select *"Tools"* then click *"Network Manager"**
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Network_Manager.png?raw=true)
 
-### *2.  Click *“NAT Networks”*, then click *“Create”**
+##### *2.  Click *“NAT Networks”*, then click *“Create”**
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Create_NATNetwork.png?raw=true)
 
-### 3.  *Name the network and choose an IPv4 prefix. Refer to the **"Project Overview"** section for IPv4 prefixes.*
+##### 3.  *Name the network and choose an IPv4 prefix. Refer to the **"Project Overview"** section for IPv4 prefixes.*
 
 ![Network Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/network_provision/Naming_Network.png?raw=true)
 
 ## Provision A Virtual Machine
 
-### *1. Navigate to the *"Machine"* tab, select *New**
+##### *1. Navigate to the *"Machine"* tab, select *New**
 
 ![Virtual Box "Machine" Tab](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/VirtualBox_Machine_Tab.png)
 
-### *2. Enter a name for the virtual machine. Keep the folder the same. Select **"Type"** (*this changes throughout the project based on the ISO image used*). Select **"Version"** (*this changes throughout the project based on the ISO image used*).*
+##### *2. Enter a name for the virtual machine. Keep the folder the same. Select **"Type"** (*this changes throughout the project based on the ISO image used*). Select **"Version"** (*this changes throughout the project based on the ISO image used*).*
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Virtual_Machine_Creation.png?raw=true)
 
-### *3. Add hardware specifications. 4 GBs of RAM (4096 mb) AND 2 CPU processors for each machine, unless explicitly expressed.*
+##### *3. Add hardware specifications. 4 GBs of RAM (4096 mb) AND 2 CPU processors for each machine, unless explicitly expressed.*
    - *For Windows images, click the box to "Enable EFI"*
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hardware_Specs.png?raw=true)
 
-### *4. Add hard disk specifications. Minimum 50 GB of space.*
+##### *4. Add hard disk specifications. Minimum 50 GB of space.*
 
 ![Virtual Machine Creation](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Hard_Disk_Specs.png?raw=true)
 
-### *5. Right click the new machine, click *"Settings"**
+##### *5. Right click the new machine, click *"Settings"**
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Settings.png?raw=true)
 
-### *6. Select the **"Storage"** tab, click the **"Empty"** storage device, then select **"Choose a disk file".***
+##### *6. Select the **"Storage"** tab, click the **"Empty"** storage device, then select **"Choose a disk file".***
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/LabWinClient_Storage_Settings.png?raw=true)
 
-### *7. Navigate to the ISO image location and select the appropriate ISO image*
+##### *7. Navigate to the ISO image location and select the appropriate ISO image*
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/ISO%20Image%20Selection.png?raw=true)
 
-### *8. Navigate to the **"Settings"** of the virtual machine, select **"Network"**. Select **"NAT Network"** in the Attached to option. Choose the network you created in the **"Name"** option.*
+##### *8. Navigate to the **"Settings"** of the virtual machine, select **"Network"**. Select **"NAT Network"** in the Attached to option. Choose the network you created in the **"Name"** option.*
 
 ![Virtual Machine Configuration](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/Network%20Settings%20LabWinClient.png?raw=true)
 
@@ -171,23 +171,23 @@
 
 ## Windows Server 2025
 
-### *1. Next >> "Install Windows Server" >> Check the box >> Next*
+##### *1. Next >> "Install Windows Server" >> Check the box >> Next*
    
-### *2. Select "Windows Server 2025 Standard Evaluation (Desktop Experience)"*
+##### *2. Select "Windows Server 2025 Standard Evaluation (Desktop Experience)"*
 
 ![Select Image WS25](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Windows%20Server%202025%20Select%20Image.png?raw=true)
 
-### *3. Accept Microsoft's EULA*
+##### *3. Accept Microsoft's EULA*
 
-### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"*
+##### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"*
 
 ![Disk 0 Partition 3](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Disk%200%20Partition%203.png?raw=true)
 
-### *5. Set a password for the default Administrator account. After this, a login screen will appear*
+##### *5. Set a password for the default Administrator account. After this, a login screen will appear*
 
-### *6. Login with the password you just created. After this, there will be a "Server Manager" window that appears.*
+##### *6. Login with the password you just created. After this, there will be a "Server Manager" window that appears.*
 
-### *7. Next, I will be showing how I finshed configuring the machine. A static IP address should be assigned, promoting thhe server to a domain controller, DHCP and DNS need to be set up and I will add a couple of user accounts to the server.*
+##### *7. Next, I will be showing how I finshed configuring the machine. A static IP address should be assigned, promoting thhe server to a domain controller, DHCP and DNS need to be set up and I will add a couple of user accounts to the server.*
 
 #### *Assign Static IP address*
 
