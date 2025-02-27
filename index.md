@@ -288,7 +288,7 @@ If the setup was done correctly, the following output will be displayed:
 
 ![DHCP Manager](
 
-##### *2. Select servdr >> Right click "IPv4" >> Select "New Scope"*
+##### *2. Select server >> Right click "IPv4" >> Select "New Scope"*
 
 ![DHCP New Scope](
 
@@ -308,3 +308,20 @@ If the setup was done correctly, the following output will be displayed:
 ---
 
 #### Add User Accounts in Active Directory
+
+##### *1. On the "Server Manager" window, navigate to "Tools" on the top navigation menu >> Click "Active Directory Users and Computers"*
+
+![Users and Computers](
+
+##### *2. Click the down arrow by "corp....", select "Users" >> "Actions" >> "New" >> "User"*
+
+![Add New User](
+
+##### *3. Add user information >> Click the "User cannot change password" and enter password >> Click through with all default settings*
+
+![Users Added](
+
+##### *NOTE: All user info and passwords used for this project are in the [Project Overview](#project-overview-briefcase) section*
+
+---
+
