@@ -16,7 +16,8 @@
   - [Provision A Virtual Machine](#provision-a-virtual-machine)
 * [Deploying Each Machine :cd:](#deploying-each-machine-cd) 
   - [Windows Server 2025](#windows-server-2025)
-  - 
+    - [Assign Static IP Address](#assign-static-ip-address)
+    - [Promote Active Directory to a Domain Controller](#promote-active-directory-to-a-domain-controller)
 ---
 
 # Project Overview :briefcase:
