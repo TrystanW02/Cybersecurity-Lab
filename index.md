@@ -193,3 +193,4 @@
 
 ##### *1. Navigate to Control Panel. Select "Network and Sharing Center".*
 
+![Change Adapter Settings](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Change%20Adapter%20Settings.png?raw=true)
