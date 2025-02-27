@@ -226,14 +226,14 @@
 
 ##### *4. At the top of the "Server Manger" window, there is a flag. This is where the installations will be. Click the "Promote this server to a domain controller" link*
 
-![Notification](
+![Notification](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Notification.png?raw=true)
 
 ##### *5. Click "Add a new forest". Enter a root domain name*
 
-![Root Domain Name](
+![Root Domain Name](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Root%20Domain%20Name.png?raw=true)
 
 ##### *6. Leave the default options. For DSRM password, use Administrator password. Select "Next"*
 
 ##### *7. Leave "Create DNS delegation" box blank >> Click "Next" until confirmation screen. Click "Install"*
 
-![Prereq Check](
+![Prereq Check](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Prereq%20Check.png?raw=true)
