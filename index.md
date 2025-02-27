@@ -181,4 +181,8 @@
 
 ### *4. Select "Disk 0 Unallocated Space" >> "Create Partition" >> Use default size >> Apply. Soon, there will be 3 partitions that show up. Select "Disk 0 Partition 3" >> "Install"*
 
-![Disk 0 Partition 3](
+![Disk 0 Partition 3](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Disk%200%20Partition%203.png?raw=true)
+
+### *5. Set a password for the default Administrator account. After this, a login screen will appear*
+
+### *6. 
