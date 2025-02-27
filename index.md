@@ -249,7 +249,7 @@ Get-ADDomainController
 ```
 ##### If done correctly, you should see the below output:
 
-![GET ADDomainController](
+![GET ADDomainController](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/GET%20ADDomainController.png?raw=true)
 
 ---
 
@@ -257,15 +257,15 @@ Get-ADDomainController
 
 ##### *1. On the "Server Manager" window, navigate to "DNS" on the left side navigation menu >> Select the server >> Right-click >> "DNS Manager"*
 
-![DNS Manager](
+![DNS Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/DNS%20Manager.png?raw=true)
 
 ##### *2. Right-click the domain >> "Properties"
 
-![DNS Manager Properties](
+![DNS Manager Properties](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/DNS%20Manager%20Properties.png?raw=true)
 
 ##### *3. Select "Forwarders" tab >> "Edit" >> Add "8.8.8.8" >> "OK"
 
-![Edit Forwarders](
+![Edit Forwarders](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Edit%20Forwarders.png?raw=true)
 
 ##### *4. To test and make sure there is internet connection, run the following commands in Powershell:
 
@@ -277,9 +277,9 @@ nslookup corp.lab-dc.com
 
 If the setup was done correctly, the following output will be displayed:
 
-![ping google.com](
+![ping google.com](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/ping%20google.com.png?raw=true)
 
-![nslookup domain](
+![nslookup domain](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/nslookup%20domain.png?raw=true)
 
 ---
 
@@ -287,22 +287,22 @@ If the setup was done correctly, the following output will be displayed:
 
 ##### *1. On the "Server Manager" window, navigate to "DHCP" on the left side navigation menu >> Select the server >> Right click >> "DHCP Manager"*
 
-![DHCP Manager](
+![DHCP Manager](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/DHCP%20Manager.png?raw=true)
 
 ##### *2. Select server >> Right click "IPv4" >> Select "New Scope"*
 
-![DHCP New Scope](
+![DHCP New Scope](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/DHCP%20New%20Scope.png?raw=true)
 
 ##### *3. A wizard window will appear now. Add a name for the scope. For this project, I chose "lab-scope". For the IP address range, I used the following:*
 ##### - *Start IP address:* 10.0.0.100
 ##### - *End IP address:* 10.0.0.200
 ##### - *Subnet mask:* 255.255.255.0
 
-![IP Address Range](
+![IP Address Range](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/IP%20Address%20Range.png?raw=true)
 
 ##### *4. Click "Next" through the windows until the "Router (Default Gateway)" >> Add the routher IP, for this it is 10.0.0.1*
 
-![Router IP](
+![Router IP](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Router%20IP.png?raw=true)
 
 ##### *5. Click "Next" throught the remaining windows >> "Finish"
 
@@ -312,15 +312,15 @@ If the setup was done correctly, the following output will be displayed:
 
 ##### *1. On the "Server Manager" window, navigate to "Tools" on the top navigation menu >> Click "Active Directory Users and Computers"*
 
-![Users and Computers](
+![Users and Computers](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Users%20and%20Computers.png?raw=true)
 
 ##### *2. Click the down arrow by "corp....", select "Users" >> "Actions" >> "New" >> "User"*
 
-![Add New User](
+![Add New User](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Add%20New%20User.png?raw=true)
 
 ##### *3. Add user information >> Click the "User cannot change password" and enter password >> Click through with all default settings*
 
-![Users Added](
+![Users Added](https://github.com/TrystanW02/portfolio-cybersecuritylab/blob/main/images/machine_setup/windows_server_2025/Users%20Added.png?raw=true)
 
 ##### *NOTE: All user info and passwords used for this project are in the [Project Overview](#project-overview-briefcase) section*
 
